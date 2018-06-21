@@ -24,5 +24,6 @@ I use a policy of giving a reward (+1) each time the car reaches a new milestone
 However, the problem at his core is giving a negative reward for each step. I will try using this policy on an other agent later.
 
 ## Reference
-The mountain car problem description is taken from "An introduction to reinforcement learning" by Sutton and Barto. (https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
+The mountain car problem description is taken from "An introduction to reinforcement learning" by Sutton and Barto. (https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html).
+
 The Q-learning class is from MorvanZhou : https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/blob/master/contents/2_Q_Learning_maze/RL_brain.py
